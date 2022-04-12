@@ -1,0 +1,23 @@
+body{
+  background-color: lightblue;
+}
+
+#BDP {
+  font-family: "Times New Roman", Georgia, sans-serif;
+  border: dashed orange 4px;
+  text-align: center;
+  padding: 45px;
+  margin: 45px;
+}
+
+#Amazon {
+  font-family: 'Anek Tamil', sans-serif;
+  border: solid yellowgreen 13px;
+  text-align: center;
+  padding: 45px;
+  margin: 45px;
+}
+
+h2 {
+  color: yellow;
+}
